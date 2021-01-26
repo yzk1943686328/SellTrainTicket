@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="AButton" type="id"/>
+    <item name="BButton" type="id"/>
+    <item name="CButton" type="id"/>
+    <item name="DButton" type="id"/>
+    <item name="FButton" type="id"/>
+
+</resources>
